@@ -1,0 +1,30 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <section class="hero is-fullheight">
+        <div class="hero-body has-background-black">
+            <div class="container has-text-centered" id="page-section">
+                <div class="section">
+                    <h1 class="title is-1 is-uppercase has-text-weight-bold" style="color:#008080;">
+                        {{page.title}}
+                    </h1>
+                    <hr class="has-background-white">
+                    <div class="content is-marginless has-text-grey-light">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer begins here-->
+    {% include footer.html %}
+</body>
+
+</html>

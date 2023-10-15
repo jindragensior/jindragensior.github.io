@@ -1,0 +1,44 @@
+<section class="hero is-fullheight has-text-centered has-background-black-ter" id="contact">
+    <div class="hero-body">
+        <div class="container">
+            {% unless site.orcidid_username == %}
+            <a id="contact-button-teal" href="https://orcid.org/{{site.orcidid_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-white is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <img alt="ORCID logo" src="assets/images/ORCIDiD_iconvector.svg" width="32" height="32" style="padding: 5px;"></img> {{site.orcidid_username}}
+            </a>
+            {% endunless %}
+            {% unless site.email == %}
+            <a id="contact-button-teal" href="mailto:{{site.email}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-white is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fa fa-envelope"></i>Send me an Email
+            </a>
+            {% endunless %}
+            {% unless site.ads_username == %}
+            <a id="contact-button-teal" href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Gensior%2C%20J%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+                class="button is-rounded is-uppercase has-text-weight-normal is-white is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <img alt="NASA/ADS logo" src="imgs/ads_partial_logo_dark_background.svg" width="32" height="32" style="padding: 5px;"></img>My papers on ADS
+            </a>
+            {% endunless %}
+            <hr>
+            <h2 class="is-size-5 is-uppercase has-text-weight-semibold is-marginless" style="color:#008080;">
+                You Can find me here
+            </h2>
+            <div class="column is-full is-size-6 has-text-grey-lighter">
+                <p> Institute for Computational Science </p>
+                <p> University of Zurich  </p>
+                <p> Winterthurerstrasse 190  </p>
+                <p> 8057 Zürich  </p>
+                <p> Switzerland  </p>
+
+                <br>
+                <p>or reach out via email to <span style="color:#008080;">jindra.gensior -at- uzh.ch</span></p>
+            </div>
+            <div class="column is-full is-size-6 has-text-grey">
+                <p>I am currently visiting the Sub-department of Astrophysics & New College at the University of Oxford as Balzan fellow (Michaelmas term 2023)</p>
+            </div>
+        </div>
+    </div>
+</section>

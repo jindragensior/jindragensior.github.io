@@ -1,0 +1,86 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: Jindra Gensior
+# Description of the Site
+description: Astrophysicist at the Institute for Computational Science, University of Zurich
+# URL of Image of the Site
+site-image: /assets/images/Halo_006_faceon.png
+# Keywords of the Site
+site-keywords: Astrophysics, Galaxy Evolution, Star Formation
+# URL for the Image of custom Favicon
+favicon-url: /assets/images/Halo_006_faceon.png
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: /assets/images/3_panel_forweb.png
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: jindra.gensior@uzh.ch 
+orcidid_username: 0000-0001-6119-9883
+ads_username: Gensior, J
+
+
+# Name of the Author
+author-name: Jindra Gensior
+# URL for the Image of the Author
+author-image: /assets/images/picture_JG_tenerife.jpg
+# 60 Words About the Author
+author-about: "Sinergia postdoctoral fellow at the Institute for Computational Science, University of Zurich. I am interested in constraining what sets the structure and drives turbulence within the interstellar medium of galaxies, understanding the star formation and feedback physics that drive galaxy formation and evolution
+and identifying the bottlenecks of the baryon cycle (and whether star formation can be one).
+My research primarily uses isolated galaxy and cosmological (zoom-in) simulations, but I also compare with observational data."
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: 
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
