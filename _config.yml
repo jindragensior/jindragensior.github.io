@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Jindra Gensior
 # Description of the Site
-description: Astrophysicist at the Department of Astrophysics, University of Zurich
+description: Astrophysicist at the Institute for Astronomy, University of Edinburgh
 # URL of Image of the Site
 site-image: /assets/images/Halo_006_faceon.png
 # Keywords of the Site
@@ -22,7 +22,7 @@ heroimage: /assets/images/3_panel_forweb.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: jindra.gensior@uzh.ch 
+email: jgensior@roe.ac.uk 
 orcidid_username: 0000-0001-6119-9883
 ads_username: Gensior, J
 
@@ -32,7 +32,7 @@ author-name: Jindra Gensior
 # URL for the Image of the Author
 author-image: /assets/images/picture_JG_tenerife.jpg
 # 60 Words About the Author
-author-about: "Sinergia postdoctoral fellow at the Department of Astrophysics (formerly Institute for Computational Science), University of Zurich. I am interested in constraining what sets the structure and drives turbulence within the interstellar medium of galaxies, understanding the star formation and feedback physics that drive galaxy formation and evolution
+author-about: "Postdoctoral Researcher at the Institute for Astronomy, University of Edinburgh. I am interested in constraining what sets the structure and drives turbulence within the interstellar medium of galaxies, understanding the star formation and feedback physics that drive galaxy formation and evolution
 and identifying the bottlenecks of the baryon cycle (and whether star formation can be one).
 My research primarily uses isolated galaxy and cosmological (zoom-in) simulations, but I also compare with observational data."
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
