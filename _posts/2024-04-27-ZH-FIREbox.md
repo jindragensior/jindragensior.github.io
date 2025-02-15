@@ -12,12 +12,25 @@ tags:
 
 List of papers in alphabetical order: 
 * [FIREbox](#firebox-simulating-galaxies-at-high-dynamic-range-in-a-cosmological-volume)
-<!-- * [Mass-metallicity relation in FIREbox](#inflow-and-outflow-properties-not-gas-fractions-drive-the-evolution-of-the-mass-metallicity-relation) -->
 * [Kinematic misalignment](#starburst-induced-gas-stars-kinematic-misalignment)
+* [Mass-metallicity relation in FIREbox](#inflow-and-outflow-properties-not-gas-fractions-drive-the-evolution-of-the-mass-metallicity-relation)
 * [Outflows at high redshift](#the-inefficiency-of-stellar-feedback-in-driving-galactic-outflows-in-massive-galaxies-at-high-redshift)
 * [Starbursts](#starbursts-driven-by-central-gas-compaction)
 
 and see also the [HI scale heights in FIREbox](/blog/HI-scale-heights) and [HI disc properties](/blog/HI-disc-properties) blog posts.
+
+----------
+## Inflow and outflow properties, not gas fractions, drive the evolution of the mass-metallicity relation ##
+
+Observations show a tight correlation between the stellar mass of galaxies and their gas-phase metallicity (MZR). This relation evolves with redshift, with higher redshift galaxies being characterized by lower metallicities. Understanding the physical origin of the slope and redshift evolution of the MZR may provide important insight into the physical processes underpinning it: star formation, feedback, and cosmological inflows. While theoretical models ascribe the shape of the MZR to the lower efficiency of galactic outflows in more massive galaxies, what drives its evolution remains an open question. In this letter, we analyse how the MZR evolves over z = 0-3, combining results from the FIREbox cosmological volume simulation with analytical models. Contrary to a frequent assertion in the literature, we find that the evolution of the gas fraction does not contribute significantly to the redshift evolution of the MZR. Instead, we show that the latter is driven by the redshift dependence of the inflow metallicity, outflow metallicity, and mass loading factor, whose relative importance depends on stellar mass. These findings also suggest that the evolution of the MZR is not explained by galaxies moving along a fixed surface in the space spanned by stellar mass, gas-phase metallicity, and star formation rate. 
+
+
+Monthly Notices of the Royal Astronomical Society: Letters, 2024, 532, 1, L14
+
+
+*Bassini, Luigi; Feldmann, Robert; Gensior, Jindra; Faucher-Giguère, Claude-André; Cenci, Elia; Moreno, Jorge; Bernardini, Mauro and Liang, Lichen*
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532L..14B/abstract) / [arXiv](https://arxiv.org/abs/2401.13824)
 
 ----------
 ## Starburst-induced gas-stars kinematic misalignment ##
@@ -27,7 +40,7 @@ A kinematic misalignment of the stellar and gas components is a phenomenon obser
 
 *Cenci, Elia; Feldmann, Robert; Gensior, Jindra; Bullock, James S.; Moreno, Jorge; Bassini, Luigi and Bernardini, Mauro*
 
-Submitted to The Astrophysical Journal Letters, December 12th 2023. 
+The Astrophysical Journal Letters, 2024, 961, 2, L40 
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231207334C/abstract) / [arXiv](https://arxiv.org/abs/2312.07334)
 
@@ -47,13 +60,6 @@ Monthly Notices of the Royal Astronomical Society, 2024, 527, 3, 7871
 ![Starburst paper Fig. 15; a schematic summarising the main results of the paper.](/assets/images/SB_schematic_new.png#centre)
 
 ----------
-<!-- ## Inflow and outflow properties, not gas fractions, drive the evolution of the mass-metallicity relation ##
-
-Submitted to Monthly Notices of the Royal Astronomical Society Letters, July 24th 2023.
-
-*Bassini, Luigi; Feldmann, Robert; Gensior, Jindra; Faucher-Giguère, Claude-André; Cenci, Elia; Moreno, Jorge; Bernardini, Mauro and Liang, Lichen*
-
----------- -->
 
 ## The inefficiency of stellar feedback in driving galactic outflows in massive galaxies at high redshift  ##
 Recent observations indicate that galactic outflows are ubiquitous in high-redshift (high-z) galaxies, including normal star-forming galaxies, quasar hosts, and dusty star-forming galaxies (DSFGs). However, the impact of outflows on the evolution of their hosts is still an open question. Here, we analyse the star-formation histories and galactic outflow properties of galaxies in massive haloes (10<sup>12</sup>M<sub>⊙</sub> < M<sub>vir</sub> < 5×10<sup>12</sup>M<sub>⊙</sub>) at z ≳ 5.5 in three zoom-in cosmological simulations from the MassiveFIRE suite, as part of the Feedback In Realistic Environments (FIRE) project. The simulations were run with the FIRE-2 model, which does not include feedback from active galactic nuclei. The simulated galaxies resemble z > 4 DSFGs, with star-formation rates of ∼1000 M<sub>⊙</sub>yr<sup>−1</sup> and molecular gas masses of M<sub>mol</sub> ~ 10<sup>10</sup> M<sub>⊙</sub>. However, the simulated galaxies are characterized by higher circular velocities than those observed in high-z DSFGs. The mass loading factors from stellar feedback are of the order of ~0.1, implying that stellar feedback is inefficient in driving galactic outflows and gas is consumed by star formation on much shorter time-scales than it is expelled from the interstellar medium. We also find that stellar feedback is highly inefficient in self-regulating star formation in this regime, with an average integrated star formation efficiency (SFE) per dynamical time of 30 per cent. Finally, compared with FIRE-2 galaxies hosted in similarly massive haloes at lower redshift, we find lower mass loading factors and higher SFEs in the high-z sample. We argue that both effects originate from the higher total and gas surface densities that characterize high-z massive systems.  
