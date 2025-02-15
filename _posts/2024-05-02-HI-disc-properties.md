@@ -2,7 +2,7 @@
 title: "HI discs of L∗ galaxies as probes of the baryonic physics of galaxy evolution"
 layout: post
 post-image: "/assets/images/ML_16t9.png"
-description: "We analyse the HI disc properties of galaxies drawn from cosmological simulations with different star formation and stellar feedback physics at z=0. While global properties are in broad agreement with each other and observations, the HI disc morphology is particularly sensitive to the different physics. Submitted to MNRAS."   
+description: "We analyse the HI disc properties of galaxies drawn from cosmological simulations with different star formation and stellar feedback physics at z=0. While global properties are in broad agreement with each other and observations, the HI disc morphology is particularly sensitive to the different physics. Accepted by MNRAS."   
 tags:
 - HI
 - ISM structure
@@ -17,7 +17,7 @@ Understanding what shapes the cold gas component of galaxies, which both provide
 
 *Gensior, Jindra; Feldmann, Robert; Reina-Campos, Marta; Trujillo-Gomez, Sebastian; Mayer, Lucio; Keller, Benjamin W.; Wetzel, Andrew; Kruijssen, J. M. Diederik; Hopkins, Philip F. and Moreno, Jorge*
 
-Submitted to Monthly Notices of the Royal Astronomical Society, September 30th 2023
+Monthly Notices of the Royal Astronomical Society, 2024, 531, 1, 1158
 
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231001482G) / [arXiv](https://arxiv.org/abs/2310.01482)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1158G/abstract) / [arXiv](https://arxiv.org/abs/2310.01482)
