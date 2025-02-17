@@ -13,7 +13,7 @@ One aspect I particularly enjoy about outreach is coming up with memorable and e
 <hr class="tenp-width" style="background-color:#008080;">
 
 <ul style="text-align: left;">
-<li> prepared and taught the lectures on galaxy formation and evolution for <i>AST 202 The Universe: Contents, Origin, Evolution and Future</i> (University of Zurich; summer semester 2023) </li>
+<li> prepared and taught the lectures on galaxy formation and evolution for <i>AST 202 The Universe: Contents, Origin, Evolution and Future</i> (University of Zurich; summer semester 2023, 2024) </li>
 <li> tutored <i>Introduction to Astronomy and Astrophysics</i> (Heidelberg University; winter semester 2018/2019, 2019/2020)</li> 
 <li> tutored <i>Experimental Physics I</i> (Heidelberg University; Oct-Dec 2018)</li> 
 </ul>
@@ -21,8 +21,8 @@ One aspect I particularly enjoy about outreach is coming up with memorable and e
 <hr class="tenp-width" style="background-color:#fff;">
 
 <ul style="text-align: left;">
-<li> co-supervisor of University of Zurich PhD student Elia Cenci (2021-) </li>
-<li> academic mentor of University of Zurich PhD student Mauro Bernardini (2021-2023) </li>
+<li> co-supervisor of University of Zurich PhD student Elia Cenci (2021-2024) </li>
+<li> academic mentor of University of Zurich PhD student/postdoc Mauro Bernardini (2021-2023;2024) </li>
 <li> academic mentor of Heidelberg University BSc/MSc student Luise Kluge (2020-2022)</li> 
 <li> main supervisor of summer internship and Bachelor thesis for Heidelberg University student Leon Fordinal (<i>It’s cloudy out there: The effect of galactic potentials on cloud properties</i>; 2020 - 2021) </li> 
 </ul>
