@@ -13,7 +13,7 @@ description: Astrophysicist at the Institute for Astronomy, University of Edinbu
 # URL of Image of the Site
 site-image: /assets/images/Halo_006_faceon.png
 # Keywords of the Site
-site-keywords: Astrophysics, Galaxy Evolution, Star Formation
+site-keywords: Astrophysics, Galaxy Evolution, Galaxy Formation, Star Formation
 # URL for the Image of custom Favicon
 favicon-url: /assets/images/Halo_006_faceon.png
 
@@ -32,9 +32,7 @@ author-name: Jindra Gensior
 # URL for the Image of the Author
 author-image: /assets/images/picture_JG_tenerife.jpg
 # 60 Words About the Author
-author-about: "Postdoctoral Researcher at the Institute for Astronomy, University of Edinburgh. I am interested in constraining what sets the structure and drives turbulence within the interstellar medium of galaxies, understanding the star formation and feedback physics that drive galaxy formation and evolution
-and identifying the bottlenecks of the baryon cycle (and whether star formation can be one).
-My research primarily uses isolated galaxy and cosmological (zoom-in) simulations, but I also compare with observational data."
+author-about: "Postdoctoral Researcher at the Institute for Astronomy, University of Edinburgh. I am interested in understanding the physics of star formation (and feedback), that underpin galaxy formation and evolution, and relatedly, constraining what sets the structure and drives turbulence within the interstellar medium of galaxies. Specifically, with a focus on developing new sub-grid models for numerical simulations to study the formation of the first galaxies, and their evolution to the present day."
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: 
 

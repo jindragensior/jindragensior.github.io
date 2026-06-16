@@ -2,7 +2,7 @@
 title: Teaching & Outreach
 layout: pageb
 ---
-I enjoy being able to talk about all things astrophysics, whether that is in the context of [teaching](#teaching) in lectures, mentoring students or participating in outreach events. I have been a speaker at a few events, e.g. at the Big Bang Bash of the Edinburgh International Science Festival in 2016, or for the [Mimikry: Exomoon](https://seads.network/project/exomoon) immersive play at the Theater am Neumarkt in Zurich in 2023. Additionally, I have been an interviewee for school students working on galaxy-related projects in the canton of Zurich. 
+I enjoy being able to talk about all things astrophysics, whether that is in the context of [teaching](#teaching) in lectures, mentoring students or participating in outreach events. I have been a speaker at a few events, e.g. at the Big Bang Bash of the Edinburgh International Science Festival in 2016, for the [Mimikry: Exomoon](https://seads.network/project/exomoon) immersive play at the Theater am Neumarkt in Zurich in 2023, or [Soapbox Science Edinburgh](https://bsky.app/profile/soapboxscienceedin.bsky.social/post/3lobdeyufvs26) in 2025. Additionally, I have been an interviewee for school students working on galaxy-related projects in the canton of Zurich and regularly participate in outreach activities run by the Visitor Centre of the Royal Observatory, whether that's at local libraries, community fairs or working with groups such as the Oot the box initiative at the Grassmarket Community Project. 
 
 One aspect I particularly enjoy about outreach is coming up with memorable and engaging ways to convey the material in accessible ways. As such I have written a couple of [dances](#dances) and [poems](#poems) about star formation, astrochemistry, galaxy formation and evolution. Please [get in touch](/#contact) if you are interested in me giving a talk/writing a dance/poem for your event. 
 
@@ -21,6 +21,7 @@ One aspect I particularly enjoy about outreach is coming up with memorable and e
 <hr class="tenp-width" style="background-color:#fff;">
 
 <ul style="text-align: left;">
+<li> co-supervisor of University of Edinburgh PhD students Evan Jones (2024- ) and Sida Li (2025-) </li>
 <li> co-supervisor of University of Zurich PhD student Elia Cenci (2021-2024) </li>
 <li> academic mentor of University of Zurich PhD student/postdoc Mauro Bernardini (2021-2023;2024) </li>
 <li> academic mentor of Heidelberg University BSc/MSc student Luise Kluge (2020-2022)</li> 
